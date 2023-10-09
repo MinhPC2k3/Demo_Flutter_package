@@ -1,4 +1,4 @@
-library my_flutter_package;
+library minh_package_flutter;
 import 'package:flutter/material.dart';
 
 /// A Calculator.
@@ -26,7 +26,6 @@ class PlusButton extends StatelessWidget{
     return MaterialButton(
       key: key,
       onPressed: myOnPressed!() ?? (){
-        print("empty function");
       },
       padding: const EdgeInsets.all(10),
       child: Column(

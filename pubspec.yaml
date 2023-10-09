@@ -1,11 +1,11 @@
-name: my_flutter_package
-description: A new Flutter package project.
+name: minh_package_flutter
+description: Minh's package include custom flutter button.
 version: 0.0.1
-homepage:
+homepage: https://github.com/MinhPC2k3/Demo_Flutter_package
 
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: '>=2.12.0 <4.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
